@@ -1,0 +1,8 @@
+streamlit
+pandas
+pycaret
+instructor
+openai
+pydantic
+python-dotenv
+langfuse
