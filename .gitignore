@@ -1,4 +1,11 @@
+# Sekrety i klucze API (BARDZO WAŻNE)
 .env
+.streamlit/secrets.toml
+
+# Pliki logów i podręczne
+logs.log
+*.log
+
+# Pamięć podręczna Pythona
 __pycache__/
 *.pyc
-.streamlit/secrets.toml
