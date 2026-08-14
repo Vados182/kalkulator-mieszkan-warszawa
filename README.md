@@ -2,7 +2,7 @@
 
 Aplikacja webowa do szacowania wartości nieruchomości w Warszawie z wykorzystaniem modeli Machine Learning oraz zaawansowanej analizy tekstu (NLP).
 
-🔗 **Live Demo:** [TUTAJ_WKLEISZ_LINK_DO_STREAMLIT_PO_PUBLIKACJI]
+🔗 **Live Demo:** [https://kalkulator-mieszkan-warszawa-mwvogqtaov9nyf7h6fsmaj.streamlit.app/]
 
 ## 🚀 Funkcjonalności
 
